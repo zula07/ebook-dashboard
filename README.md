@@ -1,4 +1,4 @@
-# E-Book Dashboard (Canavar)
+# E-Book Dashboard
 
 PHP ve Gemini API tabanlı basit, şık bir e-kitap arama ve indirme dashboard'u.
 
